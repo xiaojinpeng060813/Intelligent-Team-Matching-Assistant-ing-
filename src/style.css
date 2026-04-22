@@ -1,0 +1,8 @@
+select, input, textarea {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+}
+.smart-match-page .rounded-card {
+  border-radius: 12px; 
+}
